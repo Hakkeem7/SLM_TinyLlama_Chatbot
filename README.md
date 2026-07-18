@@ -140,7 +140,7 @@ Add a screenshot of your chatbot here.
 Example:
 
 ```
-<img width="616" height="900" alt="Screenshot 2026-07-18 223837" src="https://github.com/user-attachments/assets/f9c18426-659a-45b1-9dd0-d69d4bfd5a8d" />
+image/chat.png
 
 ```
 
