@@ -54,7 +54,7 @@ SLM_TinyLlama_Chatbot/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/SLM_TinyLlama_Chatbot.git
+git clone https://github.com/Hakkeem7/SLM_TinyLlama_Chatbot.git
 ```
 
 ### 2. Navigate to the Project
@@ -140,7 +140,8 @@ Add a screenshot of your chatbot here.
 Example:
 
 ```
-images/chatbot.png
+<img width="616" height="900" alt="Screenshot 2026-07-18 223837" src="https://github.com/user-attachments/assets/f9c18426-659a-45b1-9dd0-d69d4bfd5a8d" />
+
 ```
 
 ---
